@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shdblowers)](https://github.com/shdblowers/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shdblowers)](https://github.com/shdblowers/github-readme-stats)
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shdblowers)](https://github.com/shdblowers/github-readme-stats)
